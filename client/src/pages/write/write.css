@@ -1,0 +1,173 @@
+.write{
+    padding-top: 50px;
+}
+.writeForm{
+position: relative;
+top:20px;
+right:50px;
+}
+.writeFormGroup{
+ margin-left: 150px ;
+ display: flex;
+ align-items: center;
+    
+}
+.writeIcon{
+    width: 25px;
+    height: 25px;
+    border-radius: 50px;
+    border: 1px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    color:black;
+    cursor: pointer;
+}
+.writeInput{
+    font-size: 30px;
+    border:none;
+    padding:20px;
+    width:70vw;
+    border-radius:10px;
+    object-fit: cover;
+    width:70vw;  
+
+}.writeInput:focus{
+    outline: none;
+}
+.writeText{
+    font-size: 20px;
+}
+.writeSubmit{
+    position: absolute;
+    color:white;
+    background-color: #2F2FA2;
+    padding:10px;
+    border:none;
+    border-radius:10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.writeImg{
+    margin-left: 150px;
+    width:70vw;
+    height:250px;
+    border-radius: ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .containerWrite{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:5%;
+    padding:0px;
+    height: 100vh;
+    color:white;
+    background-color: bisque;
+}
+.writeBlog{
+    display:flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+.writePost{
+    display: flex;
+    flex-direction: column;
+    height:100%;
+    width:100%
+}
+.postTitle{
+    text-align: center;
+    border-radius: 10px;
+    font-size: 25px;
+    margin-top: 20px;
+}
+.postBlog{
+display: flex;
+flex-direction: column;
+justify-items: center;
+
+}
+.desc{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    border-radius: 10px;
+    font-size: 15px;
+    width:90%;
+    height:20vh;
+    
+
+}
+.submitPost{
+    margin-top: 10px;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.postButton{
+    margin-top: 10px;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+ */
